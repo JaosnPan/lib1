@@ -362,7 +362,7 @@ func Printf(str string) {
 	//项目主页 https://github.com/fatih/color
 
 	//使用亮绿色
-	color.HiGreen(str)
+       //	color.HiGreen(str)
 
 }
 
